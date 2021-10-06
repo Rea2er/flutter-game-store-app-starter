@@ -1,6 +1,6 @@
 # game_store_app
 
-A new Flutter project.
+![Screen Shot 2021-10-06 at 8 16 09 PM](https://user-images.githubusercontent.com/38845275/136296309-1f782127-a8e6-41a9-a2d3-fe4ae800282c.png)
 
 ## Getting Started
 
